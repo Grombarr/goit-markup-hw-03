@@ -9,7 +9,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff;
-    color: #434455;
 }
 
 h1 {
@@ -30,6 +29,11 @@ p {
     letter-spacing: 0.03em;
     text-align: left;
     text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+    text-decoration: none;
+    color: #2E2F42;
+    text-transform: uppercase;
+}
+
+.logo-web {
     color: #4D5AE5;
 }
