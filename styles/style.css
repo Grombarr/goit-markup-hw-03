@@ -1,0 +1,17 @@
+/* .ilkclass {
+    color: bisque;
+} */
+/* #aydi {
+    color: rgb(85, 20, 71);
+} */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
