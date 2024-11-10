@@ -1,14 +1,9 @@
-/* .ilkclass {
-    color: bisque;
-} */
-/* #aydi {
-    color: rgb(85, 20, 71);
-} */
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #ffffff;
+    color: #434455;
 }
 
 h1 {
@@ -35,22 +30,19 @@ p {
 
 }
 
-.Studio {
+.studio {
     color: #2E2F42;
 }
 
 ul {
     list-style-type: none;
-    /* Sırasız listenin madde işaretini kaldırır */
     padding: 0;
 }
 
 ul li {
     margin: 10px 0;
-    /* Liste öğeleri arasına boşluk ekler */
 }
 
-/* İlk maddenin stilini belirlemek için */
 ul li:first-child a.studio-link {
     font-weight: 500;
     font-size: 16px;
@@ -66,4 +58,29 @@ ul li:first-child a.studio-link:hover {
 
 ul li:first-child a.studio-link:focus {
     color: #404bbf;
+}
+
+ul li a.studio-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+}
+
+ul li a.studio-link:hover {
+    color: #404bbf;
+}
+
+ul li a.studio-link:focus {
+    color: #404bbf;
+}
+
+address {
+    font-style: normal;
+}
+
+.contact-info {
+    font-style: normal;
 }
