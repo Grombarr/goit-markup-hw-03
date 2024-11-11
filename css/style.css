@@ -87,10 +87,10 @@ ul li a.studio-link:focus {
     text-decoration: none;
 }
 
-/* address {
-    font-style: normal;
+.team {
+    background: #f4f4fd
 }
 
-.contact-info {
-    font-style: normal;
-} */
+.our_port {
+    background: #ffffff;
+}
