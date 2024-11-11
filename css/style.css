@@ -19,6 +19,19 @@ p {
 
 }
 
+.logo-link {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-underline-position: from-font;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-align: left;
+
+}
+
 .strategy {
     font-weight: 500;
     font-size: 20px;
@@ -34,17 +47,7 @@ p {
     color: #434455;
 }
 
-.logo-link {
-    font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-underline-position: from-font;
-    text-transform: uppercase;
-    color: #4d5ae5;
 
-}
 
 .studio {
     color: #2e2f42;
@@ -68,8 +71,7 @@ ul li:first-child a.studio-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
-    text-decoration: none;
+    color: #434455 text-decoration: none;
 }
 
 ul li:first-child a.studio-link:hover {
