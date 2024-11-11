@@ -19,6 +19,20 @@ p {
 
 }
 
+.strategy {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.p_under_about_us {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
 .logo-link {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
