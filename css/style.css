@@ -181,8 +181,6 @@ ul li a.studio-link:focus {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    padding: 10px 20px;
-
 }
 
 button:hover {
