@@ -27,8 +27,8 @@ p {
     letter-spacing: 0.03em;
     text-align: left;
     text-underline-position: from-font;
-    text-decoration: none;
     text-transform: uppercase;
+    color: #4d5ae5;
 
 }
 
