@@ -66,23 +66,7 @@ ul li {
     margin: 10px 0;
 }
 
-ul li:first-child a.studio-link {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-ul li:first-child a.studio-link:hover {
-    color: #404bbf;
-}
-
-ul li:first-child a.studio-link:focus {
-    color: #404bbf;
-}
-
-ul li a.studio-link {
+.studio-link {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -91,11 +75,8 @@ ul li a.studio-link {
     text-decoration: none;
 }
 
-ul li a.studio-link:hover {
-    color: #404bbf;
-}
-
-ul li a.studio-link:focus {
+.studio-link:hover,
+.studio-link:focus {
     color: #404bbf;
 }
 
