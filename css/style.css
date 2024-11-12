@@ -90,6 +90,19 @@ ul li {
     text-decoration: none;
 }
 
+.three-letters {
+    color: #434455;
+    text-decoration: none;
+}
+
+.three-letters:hover {
+    color: #404bbf;
+}
+
+.three-letters:focus {
+    color: #404bbf;
+}
+
 .team {
     background-color: #f4f4fd
 }
