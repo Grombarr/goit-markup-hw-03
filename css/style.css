@@ -46,8 +46,6 @@ p {
     color: #434455;
 }
 
-
-
 .studio {
     color: #2e2f42;
 }
@@ -58,10 +56,6 @@ p {
 
 ul {
     list-style-type: none;
-}
-
-ul li {
-    margin: 0;
 }
 
 .studio-link {
