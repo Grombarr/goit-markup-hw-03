@@ -18,6 +18,10 @@ p {
 
 }
 
+a {
+    text-decoration: none;
+}
+
 .logo-link {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
@@ -29,6 +33,11 @@ p {
     color: #4d5ae5;
     text-align: left;
 
+}
+
+.top-header {
+    border-bottom: 1px solid #e7e9fc;
+    height: 72px;
 }
 
 .strategy {
@@ -68,7 +77,6 @@ ul li {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-decoration: none;
 }
 
 .studio-link:hover,
@@ -83,11 +91,9 @@ ul li {
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
-    text-decoration: none;
 }
 
 .three-letters {
-    text-decoration: none;
     color: #434455;
 }
 
@@ -204,6 +210,14 @@ footer {
 }
 
 .ftr-txt {
+    font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #f4f4fd;
+    max-width: 264px;
+
+}
+
+img {
+    display: block;
 }
