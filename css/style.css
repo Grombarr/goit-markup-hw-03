@@ -28,7 +28,7 @@ a {
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-underline-position: from-font;
+
     text-transform: uppercase;
     color: #4d5ae5;
     text-align: left;
@@ -38,6 +38,33 @@ a {
 .top-header {
     border-bottom: 1px solid #e7e9fc;
     height: 72px;
+}
+
+.div-header {
+    display: flex;
+    height: 100%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bttn {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #404BBF;
+}
+
+button:focus {
+    background-color: #404BBF;
 }
 
 .strategy {
@@ -169,24 +196,7 @@ ul li {
     color: #434455;
 }
 
-.bttn {
-    background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
-}
 
-button:hover {
-    background-color: #404BBF;
-}
-
-button:focus {
-    background-color: #404BBF;
-}
 
 footer {
     padding: 100px 0;
