@@ -37,7 +37,6 @@ a {
 
 .top-header {
     border-bottom: 1px solid #e7e9fc;
-    height: 72px;
 }
 
 .div-header {
@@ -46,6 +45,14 @@ a {
     margin: 0 auto;
     align-items: center;
     justify-content: space-between;
+}
+
+.container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
 }
 
 .bttn {
