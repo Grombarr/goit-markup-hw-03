@@ -182,12 +182,16 @@ button:focus {
     background-color: #404BBF;
 }
 
+footer {
+    padding: 100px 0;
+}
+
 .ftr {
-    background-color: #2e2f42 padding: 100px 0;
+    background-color: #2e2f42;
+    padding: 100px 0;
 }
 
 .ftr-txt {
     line-height: 1.5;
     color: #f4f4fd;
-    letter-spacing: 0.02em;
 }
