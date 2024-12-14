@@ -1,1 +1,1 @@
-3üncü ödev
+3üncü ödevi
